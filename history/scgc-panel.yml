@@ -1,7 +1,7 @@
 url: https://panel.scgc.xyz
-status: up
-code: 200
-responseTime: 485
-lastUpdated: 2021-05-12T23:18:35.881Z
+status: down
+code: 502
+responseTime: 313
+lastUpdated: 2021-05-13T13:50:11.602Z
 startTime: Thu Mar 18 2021 15:11:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

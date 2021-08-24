@@ -4,17 +4,17 @@
     "url": "https://panel.scgc.xyz",
     "icon": "https://favicons.githubusercontent.com/panel.scgc.xyz",
     "slug": "scgc-panel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1340,
-    "timeDay": 15730,
-    "timeWeek": 3421,
-    "timeMonth": 950,
-    "timeYear": 1340,
+    "time": 1335,
+    "timeDay": 8069,
+    "timeWeek": 2919,
+    "timeMonth": 931,
+    "timeYear": 1335,
     "dailyMinutesDown": {}
   }
 ]
